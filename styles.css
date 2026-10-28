@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#container{
+	/* width:600px;
+	height:400px;
+	background-color:#A164DF;
+	margin:auto;
+	display:flex;
+	justify-content:center;
+	align-items:center; */
+}
+#buttons{
+	width:600px;
+	height:400px;
+	background-color:#A164DF;
+	margin:auto;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+.btn{
+	padding:10px;
+	background-color:#663399;
+	
+}
